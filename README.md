@@ -10,7 +10,7 @@ Test builds of a single-player, third-person survival-horror shooter. Low-poly c
 
 A classified research program buried beneath a remote facility goes wrong. An experimental compound, R-9, rewrites the staff into something hungry and violent. You are Sam Reyes, a junior facilities technician trapped on the lowest sub-level of *Meridian Deep*, and the only way out is up.
 
-You scavenge, build weapons out of junk, rescue who you can, and try not to turn while you do it. Ammo is scarce, most of the building is dark, and every bite pushes you closer to becoming one of them.
+You scavenge, pack what you can carry into a cramped attache case, build weapons out of junk, rescue who you can, and try not to turn while you do it. Ammo is scarce, most of the building is dark, and every bite pushes you closer to becoming one of them.
 
 | | |
 |---|---|
@@ -20,7 +20,7 @@ You scavenge, build weapons out of junk, rescue who you can, and try not to turn
 
 One level, **B6: Containment Labs & Medical Bay**, playable start to finish in about ten to twenty minutes: crawl out of the sealed lab, find the chief medic's keycard, take the lift.
 
-It is an early build of an unfinished game. Every sound was synthesized by a script, the animations are first passes, there is no music, and the balance numbers are first guesses. A temporary test loadout (every gun, ammo type and armor piece) sits in the first room, behind you as you start.
+It is an early build of an unfinished game. Every sound was synthesized by a script, the animations are first passes, there is no music, and the balance numbers are first guesses. A temporary test loadout (every gun, ammo type and armor piece, including the M4A1 rifle and SPAS-12 shotgun) sits in the first room, behind you as you start.
 
 ## How to play
 
@@ -41,7 +41,7 @@ It is an early build of an unfinished game. Every sound was synthesized by a scr
 | Weapons | 1 to 4 |
 | Wrench, finisher on a staggered enemy | F |
 | Use, pick up, search (hold) | E |
-| Inventory and crafting | Tab (click an item to use it, a recipe to craft it) |
+| Attache case and crafting | Tab. Drag items to move them; R, right mouse or the wheel turns the one you are carrying; click to select, double-click to use or draw; Arrange repacks. Click a recipe to craft it. |
 | Quick heal | H |
 | Flashlight | L |
 | Swap shoulder | Q |
