@@ -20,7 +20,7 @@ You scavenge, pack what you can carry into a cramped attache case, build weapons
 
 One level, **B6: Containment Labs & Medical Bay**, playable start to finish in about ten to twenty minutes: crawl out of the sealed lab, find the chief medic's keycard, take the lift.
 
-It is an early build of an unfinished game. Every sound was synthesized by a script, the animations are first passes, there is no music, and the balance numbers are first guesses. A temporary test loadout (every gun, ammo type and armor piece, including the M4A1 rifle and SPAS-12 shotgun) sits in the first room, behind you as you start.
+It is an early build of an unfinished game. Every sound was synthesized by a script, the animations are first passes, the only music is on the main menu, and the balance numbers are first guesses. A temporary test loadout (every gun, ammo type and armor piece, including the M4A1 rifle and SPAS-12 shotgun) sits in the first room, behind you as you start.
 
 ## How to play
 
@@ -45,7 +45,7 @@ It is an early build of an unfinished game. Every sound was synthesized by a scr
 | Quick heal | H |
 | Flashlight | L |
 | Swap shoulder | Q |
-| Pause, controls, quit | Esc, then Q to quit |
+| Pause, controls, quit | Esc, then M for the main menu or Q to quit |
 | Fullscreen | F5 |
 
 ## Feedback
