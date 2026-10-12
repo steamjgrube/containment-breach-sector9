@@ -18,7 +18,7 @@ You scavenge, pack what you can carry into a cramped attache case, build weapons
 
 ## What is in the build
 
-Two levels, about twenty to forty minutes. **B6: Containment Labs & Medical Bay**: crawl out of the sealed lab, find the chief medic's keycard, take the lift. **B5: Maintenance Tunnels**: the power is out; find three fuses in the dark, start the generator, get past everything the lights woke up, and face the first boss, Patient Zero, who heals every wound you do not burn shut.
+Three levels, about an hour. **B6: Containment Labs & Medical Bay**: crawl out of the sealed lab, find the chief medic's keycard, take the lift. **B5: Maintenance Tunnels**: the power is out; find three fuses in the dark, start the generator, get past everything the lights woke up, and face the first boss, Patient Zero, who heals every wound you do not burn shut. **B4: Hydroponics & Living Quarters**: the way up is sealed; drain a flooded growing hall, get past Spitters and a Screamer, and reach the survivors whose radio can have the lockdown lifted.
 
 It is an early build of an unfinished game. Every sound was synthesized by a script, the animations are first passes, the only music is on the main menu, and the balance numbers are first guesses. A temporary test loadout (every gun, ammo type and armor piece, including the M4A1 rifle and SPAS-12 shotgun) sits in the first room, behind you as you start.
 
