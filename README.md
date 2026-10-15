@@ -19,10 +19,10 @@ A classified research program buried under Philadelphia has gone wrong. An exper
 
 It is a slow, dark, close game. Ammunition is scarce and every shot is heard several rooms away. Most of the lamps are dead, dying or red. Every bite adds R-9 Exposure, which makes you hit harder, heal worse and, at 100%, turn. What you carry has to fit in one attache case, and if you die out there all of it stays where you fell.
 
-It looks the way the early 2000s remember themselves: low-poly people and chunky pixel-art textures under modern lighting. It is unfinished: this is a test build with three floors of a planned six levels, and what is rough is listed [further down](#what-is-in-this-build).
+It looks the way the early 2000s remember themselves: low-poly people and chunky pixel-art textures under modern lighting. It is unfinished: this is a test build with four floors of a planned six levels, and what is rough is listed [further down](#what-is-in-this-build).
 
-- **Three floors.** Containment labs and a medical bay; maintenance tunnels with the power out; a flooded hydroponics hall and the living quarters beyond it.
-- **Six kinds of infected**, each somebody the outbreak caught at work, each with its own way of getting to you, and one of them a boss who heals every wound you do not burn shut.
+- **Four floors.** Containment labs and a medical bay; maintenance tunnels with the power out; a flooded hydroponics hall and the living quarters beyond it; and the facility's own rail depot, where the company's clean-up crew got there first.
+- **Seven kinds of infected**, each somebody the outbreak caught at work, each with its own way of getting to you, and two bosses: one who heals every wound you do not burn shut, and one that comes at you from the ceiling.
 - **Six weapons and eighteen attachments**, from a pipe wrench and a nail gun built out of scrap to a carbine you fit out at a modification bench.
 - **Fire, water and the dark** as things to use and things to survive.
 - **A stash, a trader and tasks.** Pack a case, deploy, and at every lift decide whether to go on or get out with what you have.
@@ -47,7 +47,7 @@ It looks the way the early 2000s remember themselves: low-poly people and chunky
 - [The arsenal](#the-arsenal): weapons, [attachments](#attachments) and [fire](#fire)
 - [Staying alive](#staying-alive): health, Exposure, the dark, noise, the attache case, crafting, armor
 - [The Shelter](#the-shelter): stash, deploy, extraction, death, and [Hollis](#hollis-the-quartermaster)
-- [The three floors](#the-three-floors)
+- [The four floors](#the-four-floors)
 - [What is in this build](#what-is-in-this-build)
 - [Download and run](#download-and-run)
 - [Controls](#controls)
@@ -71,7 +71,7 @@ That is where the current build ends. Planned and not built: one more level unde
 
 ## The infected
 
-Six kinds are in the game now, counting the one in the containment arena. Every one of them is somebody, the uniform tells you who, and who they were tells you what they will do. All of them see and hear, gunfire best of all, and nearly everything they do to you adds R-9 Exposure as well as a wound.
+Seven kinds are in the game now, counting the two bosses. Every one of them is somebody, the uniform tells you who, and who they were tells you what they will do. All of them see and hear, gunfire best of all, and nearly everything they do to you adds R-9 Exposure as well as a wound.
 
 <table>
 <tr>
@@ -172,7 +172,26 @@ He has a swing, a two-fisted slam that draws a warning ring on the floor, and a 
 </tr>
 </table>
 
-**Planned, not built:** more kinds are intended for the last underground level and for the city, among them the Brute (security guards: armored from the front, charges, breaks doors) and the Stalker (climbs walls and ceilings, avoids the flashlight), and more bosses. Which of them, and where, is being decided again now that the plan ends in the streets of Philadelphia.
+### The Stalker
+
+<table>
+<tr>
+<td width="250" valign="top"><img src="images/stalker.png" width="230" alt="The Stalker: a skinless red creature crouched on all fours, its brain bulging out of an open skull, a wide mouth of needle teeth and a long tongue, huge clawed hands"></td>
+<td valign="top">
+
+*Whatever took the response team apart. The boss of B3, the Train Depot.*
+
+Skinless, eyeless, with its brain out in the air and a mouth full of needles. It goes on all fours, and it goes on the walls and the ceiling as readily as the floor, faster than you can run. It likes to be above you. When it is, it screeches, and then it drops.
+
+On the floor it will not stand still to be shot: aim at it and it is somewhere else. It rakes with its claws, and when it has had enough of the floor it runs for the nearest wall and climbs back out of reach.
+
+**Dealing with it.** Hit it hard while it clings to a wall or the ceiling and it falls, and for a couple of seconds it is down. That is the moment. The response team left a rifle on the platform: find it before you start the train.
+
+</td>
+</tr>
+</table>
+
+**Planned, not built:** more kinds are intended for the city, among them the Brute (security guards: armored from the front, charges, breaks doors), and more bosses. Which of them, and where, is being decided again now that the plan ends in the streets of Philadelphia.
 
 ## The arsenal
 
@@ -270,7 +289,7 @@ Only an antiviral injector pushes it back down, and those are mixed at a chem st
 
 **Survivors.** Not everyone turned. A few of the staff are still shut in where they hid: a nurse in a side ward on B6, a technician in the control booth on B5, a cook and a botanist behind a barricade on B4. They will not move while the infected are close. Clear the room and a survivor makes for shelter, and leaves you something in the storage locker on the next floor up.
 
-**Saving.** There are no save points. The mission is saved when you arrive on a floor, so quitting and choosing Continue restarts that floor with what you arrived with.
+**Saving.** There are no save points. For now the menu has no Continue: a mission you quit part-way cannot be picked up again, and the next Deploy abandons it with everything Sam was carrying. Extract before you stop.
 
 ## The Shelter
 
@@ -338,7 +357,7 @@ Things she asks for are handed over from the stash when the task is turned in, s
 
 Two more traders are planned and not built: the nurse from B6, for medicine, and Okoro of B3 security, for guns and armor.
 
-## The three floors
+## The four floors
 
 ### B6: Containment Labs & Medical Bay
 
@@ -377,17 +396,36 @@ This floor has power. What it does not have is a way up: the lift and the stairs
 
 Across the drained bed: a canteen with the dead still at their tables, four of whom are not dead, and a Screamer standing where it can see the door. Then the quarters: forty metres of corridor held by Spitters, a recreation room where something is still watching the television, and a door that opens on a wall of furniture with ALIVE INSIDE painted on it.
 
-Above B4 nothing is built yet.
+Above B4 is the Train Depot.
+
+### B3: The Train Depot
+
+<table>
+<tr>
+<td width="50%"><img src="images/b3-platform-hall.png" alt="The platform hall on B3: tall panelled walls, square pillars, a dead trooper on the platform and the depot railcar in the track pit"></td>
+<td width="50%"><img src="images/b3-cameras.png" alt="The security office's camera desk: six monitors labelled SUBSTATION, PLATFORM, TUNNEL MOUTH, SERVICE CORR and ARMORY, and a live feed of the platform"></td>
+</tr>
+<tr>
+<td width="50%"><img src="images/b3-last-stand.png" alt="Sandbags on the platform where the response team made its last stand, troopers in helmets and vests dead around them and a rifle on the tiles"></td>
+<td width="50%"><img src="images/b3-stalker.png" alt="The Stalker on the platform hall's ceiling under a lamp, coming down"></td>
+</tr>
+</table>
+
+The facility's underground rail depot, and its way out: the line runs up toward the city. The company's response team came down to clean up, and something was waiting for them. You arrive to the sound of the end of it. Their dead are everywhere, in helmets and vests, and some of them have got up again.
+
+Okoro of B3 security, the man who lifted the lockdown over the radio, has barricaded himself in the security office with the camera desk; get him out and he opens the armory. Then the train: traction power at the substation, the points in the signal box over the platform, and the cab. A railcar takes a long time to charge in a hall nine metres high, and the noise brings down what lives on the ceiling. The train will not leave while it is alive.
+
+The train is the only way out of B3, and for now the build ends as it pulls away.
 
 ## What is in this build
 
 An early test build. The release page says which version it is and what changed.
 
-- **Three floors**, B6, B5 and B4, about an hour from the lab to the last lift if nothing kills you. The build ends when you leave B4.
+- **Four floors**, B6, B5, B4 and B3. The build ends as the train pulls out of B3.
 - **The Shelter**: the stash, Sam's loadout, Hollis and her eight tasks.
-- **Floors open in order.** A new profile can deploy to B6 only. Ride B6's lift up and B5 is open to you from then on; get to B4 from B5 and so is B4.
+- **Floors open in order.** A new profile can deploy to B6 only. Ride B6's lift up and B5 is open to you from then on; get to B4 from B5 and so is B4, and the same for B3.
 - **A first mission.** On the Shelter screen move the pistol and its rounds from the stash into Sam's case, take Hollis's first task, deploy to B6, find the chief medic's keycard and extract at the lift. That finishes the task.
-- **You have what you packed.** Nothing is handed to you on B6. Temporary test racks still stand by the lifts on B5 and B4, with a few guns and some ammunition, so that those floors can be tried on their own; they will go.
+- **You have what you packed.** Nothing is handed to you on B6. Temporary test racks still stand by the lifts on B5, B4 and B3, with a few guns and some ammunition, so that those floors can be tried on their own; they will go.
 
 It is an early build of an unfinished game, and it shows:
 
@@ -405,7 +443,7 @@ It is an early build of an unfinished game, and it shows:
 
 **Needs** 64-bit Windows 10 or 11 and a DirectX 12 graphics card, roughly a GTX 1070 / RX 5700 or newer. The first minute may stutter while shaders compile.
 
-Quitting in the middle of a floor and choosing Continue restarts that floor with what you arrived with.
+There is no Continue for now: quitting in the middle of a mission loses it, so extract before you stop.
 
 ## Controls
 
