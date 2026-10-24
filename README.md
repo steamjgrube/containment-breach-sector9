@@ -1,41 +1,42 @@
 <h1 align="center">Containment Breach: Sector 9</h1>
 
 <p align="center">
-<b>A third-person survival-horror shooter that starts deep under Philadelphia.</b><br>
+<b>A first-person survival-horror shooter that starts deep under Philadelphia and comes up into the city.</b><br>
 Single-player. Test builds of an unfinished game, for Windows.
 </p>
 
 <div align="center">
 
-**[Download the latest build](../../releases/latest)** (Windows, about 370 MB, nothing to install)
+**[Download the latest build](../../releases/latest)** (Windows, about 410 MB, nothing to install)
 
 </div>
 
 <p align="center">
-<img src="images/hero.png" width="960" alt="A dark maintenance tunnel on B5. Sam Reyes, seen over the shoulder, has the flare gun raised at a Shambler that is on fire. A sign overhead reads MAINTENANCE, LEVEL B5, IF YOU CAN READ THIS FIX SOMETHING">
+<img src="images/hero.png" width="960" alt="Broad Street at night in the rain, looking up at the floodlit City Hall tower under a storm sky lit orange from below. Parked cars along the kerbs, an overturned car in the road and an infected lurching across it">
 </p>
 
 A classified research program buried under Philadelphia has gone wrong. An experimental compound, R-9, has rewritten the staff into something hungry and violent. You are Sam Reyes, a junior facilities technician on the lowest sub-level, with a pipe wrench, one bandage and a working knowledge of the vents. The only way out is up.
 
 It is a slow, dark, close game. Ammunition is scarce and every shot is heard several rooms away. Most of the lamps are dead, dying or red. Every bite adds R-9 Exposure, which makes you hit harder, heal worse and, at 100%, turn. What you carry has to fit in one attache case, and if you die out there all of it stays where you fell.
 
-It looks the way the early 2000s remember themselves: low-poly people and chunky pixel-art textures under modern lighting. It is unfinished: this is a test build with four floors of a planned six levels, and what is rough is listed [further down](#what-is-in-this-build).
+It looks the way the early 2000s remember themselves: low-poly people and chunky pixel-art textures under modern lighting. It is unfinished: this is a test build with five of a planned six levels, four floors underground and the first of the city, and what is rough is listed [further down](#what-is-in-this-build).
 
-- **Four floors.** Containment labs and a medical bay; maintenance tunnels with the power out; a flooded hydroponics hall and the living quarters beyond it; and the facility's own rail depot, where the company's clean-up crew got there first.
-- **Seven kinds of infected**, each somebody the outbreak caught at work, each with its own way of getting to you, and two bosses: one who heals every wound you do not burn shut, and one that comes at you from the ceiling.
+- **Four floors underground.** Containment labs and a medical bay; maintenance tunnels with the power out; a flooded hydroponics hall and the living quarters beyond it; and the facility's own rail depot, where the company's clean-up crew got there first.
+- **Then the city.** Center City at night, in the rain: open streets with more than one way across them, shops you can walk into and loot, motorcycles, soldiers and police losing, citizens to recruit, bandits, and a few hundred infected.
+- **Eight kinds of infected**, each somebody the outbreak caught at work, each with its own way of getting to you, and two bosses: one who heals every wound you do not burn shut, and one that comes at you from the ceiling.
 - **Six weapons and eighteen attachments**, from a pipe wrench and a nail gun built out of scrap to a carbine you fit out at a modification bench.
 - **Fire, water and the dark** as things to use and things to survive.
-- **A stash, a trader and tasks.** Pack a case, deploy, and at every lift decide whether to go on or get out with what you have.
+- **A stash, a trader and tasks**, and a quest hub in the city. Pack a case, deploy, and at every lift decide whether to go on or get out with what you have. Or take it all into **Free Roam** and just survive the city.
 
 <table>
 <tr>
-<td width="33%"><img src="images/b6-medical-bay.png" alt="The medical bay on B6"></td>
-<td width="33%"><img src="images/b4-growing-hall.png" alt="Wading through the flooded growing hall on B4"></td>
+<td width="33%"><img src="images/first-person.png" alt="First person in a B5 tunnel: Sam's hands raise the M4A1 under the centre dot"></td>
+<td width="33%"><img src="images/city-grocery.png" alt="An aisle in Kessler's Grocery: half-emptied shelves, stock strewn across the checkered floor, SALE signs"></td>
 <td width="33%"><img src="images/b5-patient-zero.png" alt="Patient Zero in the containment arena on B5"></td>
 </tr>
 <tr>
-<td align="center"><sub>B6: the medical bay</sub></td>
-<td align="center"><sub>B4: the growing hall, waist-deep</sub></td>
+<td align="center"><sub>First person, in the tunnels of B5</sub></td>
+<td align="center"><sub>Center City: Kessler's Grocery, picked over</sub></td>
 <td align="center"><sub>B5: Patient Zero, one wound open</sub></td>
 </tr>
 </table>
@@ -44,10 +45,11 @@ It looks the way the early 2000s remember themselves: low-poly people and chunky
 
 - [Meridian Deep](#meridian-deep): the place, the compound, and the story so far
 - [The infected](#the-infected): a field guide, and [Patient Zero](#patient-zero)
+- [People](#people): soldiers, police, citizens, companions, bandits and the response team
 - [The arsenal](#the-arsenal): weapons, [attachments](#attachments) and [fire](#fire)
 - [Staying alive](#staying-alive): health, Exposure, the dark, noise, the attache case, crafting, armor
 - [The Shelter](#the-shelter): stash, deploy, extraction, death, and [Hollis](#hollis-the-quartermaster)
-- [The four floors](#the-four-floors)
+- [The levels](#the-levels): four floors and [Center City](#center-city)
 - [What is in this build](#what-is-in-this-build)
 - [Download and run](#download-and-run)
 - [Controls](#controls)
@@ -67,11 +69,11 @@ You are **Sam Reyes**, a junior facilities technician on B6, the lowest sub-leve
 
 > "B4? ... Okoro. Security, B3. We sealed you in. Those were the orders. I am sorry."
 
-That is where the current build ends. Planned and not built: one more level under the ground, the facility's train depot, whose line runs up to the Broad Street Line, and then the city. By the time Sam gets to the top the outbreak has already broken out of the bunker into Philadelphia, and the police and the military are trying to hold it back and failing. The last two levels are meant to be there, at night: open districts with more than one way across them, and buildings you can go into, an apartment block, a basement, a police station.
+Okoro lifts the lockdown, and above B4 is the facility's own rail depot, whose line runs up to the Broad Street Line. The train stops dead under City Hall. By the time Sam climbs out, the outbreak has already broken out of the bunker into Philadelphia: the army is holding a line along South Street and losing everything north of it, the police are holed up in their station, and the company's response team is in the streets too, cleaning up. That is where the current build ends, on the far side of the army's line. Planned and not built: a second city level, South Philadelphia.
 
 ## The infected
 
-Seven kinds are in the game now, counting the two bosses. Every one of them is somebody, the uniform tells you who, and who they were tells you what they will do. All of them see and hear, gunfire best of all, and nearly everything they do to you adds R-9 Exposure as well as a wound.
+Eight kinds are in the game now, counting the two bosses. Every one of them is somebody, the uniform tells you who, and who they were tells you what they will do. All of them see and hear, gunfire best of all, and nearly everything they do to you adds R-9 Exposure as well as a wound.
 
 <table>
 <tr>
@@ -144,6 +146,20 @@ A Screamer cannot hurt you. It wakes everything that can. When it sees you it ta
 
 </td>
 </tr>
+<tr>
+<td width="250" valign="top"><img src="images/infected-brute.png" width="230" alt="A Brute: a hulking turned riot officer in black front armour and a cracked visor helmet, its back torn open"></td>
+<td valign="top">
+
+### Brute
+
+*Riot police, still in the armour. Big, slow to walk, quick to charge. Center City.*
+
+The riot gear came through the change: a Brute is plated from the shoulders to the shins on the front, and a round into that plate does about a seventh of its damage. It shrugs off small hits that would stop anything else, and it cannot be finished with the wrench. When it has room it roars, drops its head and charges in a straight line, throwing whatever it hits; a wall stuns it, but a door with any give in it does not stop it, and nor does a shop window.
+
+**Dealing with one.** Get behind it, or go for the head. Sidestep the charge (the roar is the warning) and its back is yours for a moment, especially if it has just met a wall.
+
+</td>
+</tr>
 </table>
 
 **Things they all do.**
@@ -191,7 +207,18 @@ On the floor it will not stand still to be shot: aim at it and it is somewhere e
 </tr>
 </table>
 
-**Planned, not built:** more kinds are intended for the city, among them the Brute (security guards: armored from the front, charges, breaks doors), and more bosses. Which of them, and where, is being decided again now that the plan ends in the streets of Philadelphia.
+**Planned, not built:** more bosses, and a few more kinds for the second city level.
+
+## People
+
+Not everyone in the city turned, and not everyone left is friendly.
+
+- **Soldiers and police** hold what they still can: the army's checkpoint on the plaza, its line on South Street, the police station in Old City. They fight the infected and the bandits, never you.
+- **Citizens** are shut in where they hid. Some have a gun. Press F on one to have them come with you: two companions at a time, F again to tell one to wait or follow. Companions fight what you fight, never run out of ammunition, follow you through doors and into shops, and can be handed a better gun from your case. They can die.
+- **Bandits** roam the streets in crews of one to four and fight everyone: you, your companions, the soldiers, the infected. They stay together and call each other in.
+- **The response team**, the company's clean-up crew, is hostile to you and to the citizens, and leaves the police and the army alone.
+
+The infected go for whoever is nearest, which means a street fight between two sides is often a fight with three.
 
 ## The arsenal
 
@@ -210,7 +237,7 @@ You start with a pipe wrench. Everything else is found, built, bought or brought
 
 A few things are true of all of them. A head shot does two and a half times the damage of one to the chest; arms and legs, less. A round that meets a wall at a shallow angle can glance off and keep going. Every shot is a noise with a radius, and things inside the radius come to see.
 
-The pistol can be found on B6 and is in a new profile's stash. The nail gun is built from its schematic or bought. The flare gun is on B5. The M4A1 and the SPAS-12 belong to levels that are not built yet, so for now they are bought from the Quartermaster's restricted racks. Planned and not built: the chainsaw, the stun baton, the fire axe, a rivet shotgun, a grenade launcher, throwables, and a prototype weapon.
+The pistol can be found on B6 and is in a new profile's stash. The nail gun is built from its schematic or bought. The flare gun is on B5. The M4A1 lies with the response team's dead on B3's platform and the SPAS-12 in B3's armory; both can also be bought from the Quartermaster's restricted racks, and the city has more. Shots go where the gun points, and guns have weight: they sway with your breathing and swing behind a quick turn, and a burst climbs. Planned and not built: the chainsaw, the stun baton, the fire axe, a rivet shotgun, a grenade launcher, throwables, and a prototype weapon.
 
 ### Attachments
 
@@ -271,7 +298,7 @@ Fire is also the best light on a dark floor, and it is not quiet: a bursting dru
 
 Only an antiviral injector pushes it back down, and those are mixed at a chem station from a schematic, or bought. The whispers, the things at the edge of the screen and the hallucinations that belong to the upper stages are planned and not built.
 
-**The dark and the flashlight.** The dark down here is not a fault you can report: most of Sector 9's lamps are dead, dying or red, and B5 has no power at all until you restore it. L switches on the lamp on Sam's chest. It drains a battery while it is lit, and a battery pack is about five minutes of light. Decide what you need to see.
+**The dark and the flashlight.** The dark down here is not a fault you can report: most of Sector 9's lamps are dead, dying or red, and B5 has no power at all until you restore it. L switches on the lamp on Sam's shoulder. It drains a battery while it is lit, and a battery pack is about five minutes of light. Decide what you need to see.
 
 <p align="center"><img src="images/b5-crawl-space.png" width="820" alt="A dark tunnel on B5 lit red. Sam is a silhouette in the pale circle of the flashlight, and at the edge of it a Crawler is dragging itself out of a crawl space"></p>
 
@@ -281,11 +308,11 @@ Only an antiviral injector pushes it back down, and those are mixed at a chem st
 
 <p align="center"><img src="images/attache-case.png" width="720" alt="The attache case open in the lab: a pistol, a nail gun, a shotgun and a rifle turned on its end, boxes of ammunition, bandages, a medkit and an antiviral, packed into a grid"></p>
 
-**Crafting.** You know two recipes when the lights go out, bandages and nails, and both can be made anywhere. Everything else is learned from a schematic, lying where somebody dropped it: hardware at a **workbench** (the nail gun, 9mm rounds), medicine at a **chem station** (medkits, antivirals). A recipe once learned is kept, even through death. The parts come out of lockers, crates, cabinets and vending machines, searched by holding E; what a container holds is decided when you first open it and differs every run.
+**Crafting.** You know two recipes when the lights go out, bandages and nails, and both can be made anywhere. Everything else is learned from a schematic, lying where somebody dropped it: hardware at a **workbench** (the nail gun, 9mm rounds), medicine at a **chem station** (medkits, antivirals). A recipe once learned is kept, even through death. The parts come out of lockers, crates, cabinets and vending machines, searched by holding F; what a container holds is decided when you first open it and differs every run.
 
 **Armor.** One piece for the body and one for the head. The security vest takes about a third of every hit and the riot helmet a smaller share, each wearing out as it does. Armor is worn the moment you pick it up, shows on Sam, and takes no room in the case. It cannot be repaired yet.
 
-**Safe rooms.** One on each floor. The infected lose track of you inside and will not walk in. Each has a **storage locker** with a pneumatic tube terminal beside it, and what goes into the locker is on its way to your stash (see below).
+**Safe rooms.** One or more on each level. The infected lose track of you inside and will not walk in. Each has a **storage locker** with a pneumatic tube terminal beside it, and what goes into the locker is on its way to your stash (see below).
 
 **Survivors.** Not everyone turned. A few of the staff are still shut in where they hid: a nurse in a side ward on B6, a technician in the control booth on B5, a cook and a botanist behind a barricade on B4. They will not move while the infected are close. Clear the room and a survivor makes for shelter, and leaves you something in the storage locker on the next floor up.
 
@@ -300,7 +327,8 @@ Between missions you are on the Shelter screen: what you own, what Sam will carr
 - **The stash** is everything you own and are not carrying. It is never lost.
 - **The loadout** is Sam's case and the armor Sam wears, packed from the stash before a mission: at most four guns, one of a kind.
 - **Deploy** to any floor you have reached. A new profile has reached B6 only; ride a lift up to a floor once and it is open to you from then on.
-- **At every lift, choose.** E rides up to the next floor. X **extracts** to the Shelter with everything you are carrying. The lift you arrived by is not a way out. B5 has a second exit, a service hoist in the control booth that works once the generator is running, so you can leave that floor without meeting Patient Zero.
+- **Free Roam**, on the main menu under Deploy, takes the loadout into Center City with no story to follow: roam, loot, fight and take work at the army's checkpoint. It is open from the start. Extract at the subway or a manhole and what you carry comes back with you; die and it is gone, and you are back on the main menu. It does not open the city to Deploy.
+- **At every lift, choose.** F rides up to the next floor. X **extracts** to the Shelter with everything you are carrying. The lift you arrived by is not a way out. B5 has a second exit, a service hoist in the control booth that works once the generator is running, so you can leave that floor without meeting Patient Zero.
 - **If you die, everything you were carrying is gone.** The stash is untouched, and the next loadout starts as the default kit: the pipe wrench and a bandage.
 - **Storage lockers are the stash.** The lockers in safe rooms send things down the tubes. What you put in one is yours for good once you leave the floor by a lift, or die.
 
@@ -355,9 +383,13 @@ Things she asks for are handed over from the stash when the task is turned in, s
 
 </details>
 
+### Sergeant Dwyer, Checkpoint Broad
+
+In the city there is work at the army's checkpoint on the plaza by City Hall, which is being overrun as you arrive. Sergeant Dwyer's first job is to hold it: a wave of infected comes when you agree, and when it is dead the checkpoint's generator needs restarting. Do that and the checkpoint is secured for good, a safe hub with floodlights, guards, a storage locker and a workbench, and Dwyer has six more jobs for you: Brutes, bandits, a ledger from the police station, a codebook from a crashed helicopter, two people trapped in Chinatown, and getting out alive. He is talked to in the street, not from the Shelter.
+
 Two more traders are planned and not built: the nurse from B6, for medicine, and Okoro of B3 security, for guns and armor.
 
-## The four floors
+## The levels
 
 ### B6: Containment Labs & Medical Bay
 
@@ -415,17 +447,38 @@ The facility's underground rail depot, and its way out: the line runs up toward 
 
 Okoro of B3 security, the man who lifted the lockdown over the radio, has barricaded himself in the security office with the camera desk; get him out and he opens the armory. Then the train: traction power at the substation, the points in the signal box over the platform, and the cab. A railcar takes a long time to charge in a hall nine metres high, and the noise brings down what lives on the ceiling. The train will not leave while it is alive.
 
-The train is the only way out of B3, and for now the build ends as it pulls away.
+The train is the only way out of B3, and it takes you up into the city.
+
+### Center City
+
+<table>
+<tr>
+<td width="50%"><img src="images/city-skyline.png" alt="Center City from above at night: rows of brick and office blocks, lit windows, smoke columns rising into a storm sky lit orange from below, the skyline beyond"></td>
+<td width="50%"><img src="images/city-police-car.png" alt="A narrow street in the rain: a police car with its red and blue strobes on, wet asphalt, a lit doorway, rowhouses"></td>
+</tr>
+<tr>
+<td width="50%"><img src="images/city-pawn.png" alt="Inside Gold Star Pawn: the owner lies dead behind his counter in his own blood, spent shotgun shells around him"></td>
+<td width="50%"><img src="images/city-motorcycle.png" alt="Sam on a motorcycle leaning into a turn down a wet street at night, headlight on the road"></td>
+</tr>
+</table>
+
+Philadelphia at night, in the rain. The train stops under City Hall and you climb out into the plaza, under open sky for the first time. North is a cut-off expressway, south the army's line along South Street with one gate, and between them four neighbourhoods: Rittenhouse Square, Broad and Market, Chinatown, and Old City with Society Hill. The army's radio gives you the way out: **through** the gate at Broad (the police can get you called in, if their radio mast works again, and then you hold the gate while it opens and pass the soldiers' infection check), **under** it (a Chinatown basement into the steam tunnels), or **over** it (a tower the response team uses as a lookout, and a construction crane beyond). There are two ways back down to the Shelter, the subway and a manhole.
+
+Off the streets there are eight shops to walk into and loot, each with its own story: Kessler's Grocery, Doyle Hardware, a pharmacy, a deli, a laundromat nobody should go into in the dark, Gold Star Pawn, Kowalski TV & Radio with the emergency broadcast on every set, and Sal's Barber Shop. Their windows break. Seven motorcycles are scattered about, loud enough to bring the street to you and heavy enough to go through it. The police station, the church and a field hospital in the convention hall are there too, behind their doors.
+
+The build ends once you are past the army's line.
 
 ## What is in this build
 
 An early test build. The release page says which version it is and what changed.
 
-- **Four floors**, B6, B5, B4 and B3. The build ends as the train pulls out of B3.
+- **Five levels**, B6, B5, B4, B3 and Center City. The build ends past the army's line on South Street.
+- **First person.** Sam's own arms, guns and legs; motorcycles are driven in third person.
+- **Free Roam**, from the main menu, open from the start.
 - **The Shelter**: the stash, Sam's loadout, Hollis and her eight tasks.
-- **Floors open in order.** A new profile can deploy to B6 only. Ride B6's lift up and B5 is open to you from then on; get to B4 from B5 and so is B4, and the same for B3.
+- **Levels open in order.** A new profile can deploy to B6 only. Ride B6's lift up and B5 is open to you from then on; get to B4 from B5 and so is B4, and the same for B3 and, by the train, Center City.
 - **A first mission.** On the Shelter screen move the pistol and its rounds from the stash into Sam's case, take Hollis's first task, deploy to B6, find the chief medic's keycard and extract at the lift. That finishes the task.
-- **You have what you packed.** Nothing is handed to you on B6. Temporary test racks still stand by the lifts on B5, B4 and B3, with a few guns and some ammunition, so that those floors can be tried on their own; they will go.
+- **You have what you packed.** Nothing is handed to you on B6. Temporary test racks still stand by the lifts on B5, B4 and B3 and on the station platform in Center City, with a few guns and some ammunition, so that those levels can be tried on their own; they will go.
 
 It is an early build of an unfinished game, and it shows:
 
@@ -433,6 +486,8 @@ It is an early build of an unfinished game, and it shows:
 - The animations were authored in code and are first passes.
 - Every number is a first guess: damage, prices, rewards, how hard it is to get out alive.
 - Nobody has played the Shelter with a mouse yet. It has only been driven by a test script.
+- The city's frame rate is lower than underground, worst in its first half-minute while everything in it wakes up.
+- First person uses the same animations as the old over-the-shoulder view: hands are big and blocky up close, a gun briefly leaves the view as it is drawn, and feet slide when you turn on the spot.
 - Known oddities: B5's lift shows the wrong floor on its indicator, a Crawler's body can poke through a wall it has just passed and the wrench's finisher does not reach one, and what a Screamer does to the others shows only as a red light.
 
 ## Download and run
@@ -452,15 +507,16 @@ There is no Continue for now: quitting in the middle of a mission loses it, so e
 | Move, look | WASD, mouse |
 | Sprint / crouch | Left Shift / Left Ctrl or C |
 | Dodge, vault | Space |
-| Aim / fire / reload | Right mouse / left mouse (while aiming) / R |
+| Lean | Q / E |
+| Aim / fire / reload | Right mouse / left mouse / R |
 | Weapons | 1 to 4 |
-| Wrench, finisher on a staggered enemy | F |
-| Use, pick up, search (hold) | E |
-| At a lift | E rides up, X extracts |
+| Wrench, finisher on a staggered enemy | V |
+| Use, pick up, search (hold), talk, recruit, get on a bike | F |
+| At a lift | F rides up, X extracts |
+| On a motorcycle | W / S throttle and reverse, A / D steer, Space brake, H horn, L headlight, F get off |
 | Attache case and crafting | Tab |
 | Quick heal | H |
 | Flashlight | L |
-| Swap shoulder | Q |
 | Pause, the controls, your active tasks | Esc, then M for the main menu or Q to quit |
 | Fullscreen | F5 |
 
@@ -479,10 +535,56 @@ There is no Continue for now: quitting in the middle of a mission loses it, so e
 
 Gamepad bindings exist for movement, aiming and the main actions but have had little testing.
 
+## Credits
+
+Center City's street models come from the Poly Pizza bundle [City Pack](https://poly.pizza/bundle/City-Pack-kJqRAIGsw0) by J-Toastie, rescaled and recoloured for this game. Used under [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/):
+
+- "ATM" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Brown Building" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Building Green" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Building Red" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Building Red Corner" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Cone" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Fence" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Fence End" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Fence Piece" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Fire Exit" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Floor Hole" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Gb Blank" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Greenhouse" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Mailbox" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Manhole Cover" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Pizza Corner" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Planter & Bushes" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Power Box" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "RB Blank" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Roof Exit" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Washing Line" by J-Toastie, CC BY 3.0, via Poly Pizza
+- "Air conditioner" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Bicycle" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Billboard" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Bus" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Fire hydrant" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Motorcycle" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Stop sign" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Tree" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Van" by Poly by Google, CC BY 3.0, via Poly Pizza
+- "Bus Stop" by Zsky, CC BY 3.0, via Poly Pizza
+- "Flower Pot" by Zsky, CC BY 3.0, via Poly Pizza (two models of that name)
+- "Trash Can" by Zsky, CC BY 3.0, via Poly Pizza
+- "Bus stop sign" by dook, CC BY 3.0, via Poly Pizza
+- "Bench" by Danni Bittman, CC BY 3.0, via Poly Pizza
+- "Rock band poster" by jeremy, CC BY 3.0, via Poly Pizza
+- "Yellow Post-it" by Zack Huang, CC BY 3.0, via Poly Pizza
+- "trah bag grey" by Jens Kull, CC BY 3.0, via Poly Pizza
+
+Public domain (CC0), with thanks: models by Quaternius and Kay Lousberg. The Stalker's screech is cut from "Flying Monster Screech 02" from Pixabay. The same list is in `CREDITS.txt` in the download. Everything else was made for this game.
+
 ## Feedback
 
 Open an [issue](../../issues) here. The most useful things to hear:
 
+- **First person and the city.** How the view and the gun's sway feel, whether you could find your way across Center City, the bikes' handling, and whether companions and bandits behave sensibly.
 - **The loop.** Is losing your gear on death fun or just punishing? Is it clear what extracting does? Are Hollis's prices and rewards anywhere near right? Did any task leave you unsure what to do?
 - **The Shelter screen with a real mouse:** dragging, turning, selling.
 - **The usual.** Where you got lost or stuck, anything too dark to play, fights that felt unfair or too easy, sounds or animations that broke the mood, and your graphics card with a rough frame rate.
